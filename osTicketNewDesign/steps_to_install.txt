@@ -1,0 +1,4 @@
+Steps to install:
+1) Download and copy the files and folder to the root osticket folder. It will replace some existing files.
+2) [optional] Enable Knowledge Base (Admin Panel -> Setting->Knowledge Base-> Enable Knowledge Base)
+3) [optional] Add Faqs (Agent Panel -> Knowledge -> Add Category and FAQS)

@@ -1,0 +1,740 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+.top-menu .navbar-brand {
+    padding-top: 4px;
+}
+.top-menu label {
+    font-weight: normal;
+    margin-bottom: 0px;
+    cursor: pointer;
+}
+
+#logo img {
+    max-height: 35px;
+}
+
+.hiddentab {
+    display: none;
+}
+.dropdown-menu a {
+    background-repeat: no-repeat;
+    background-position: 10px;
+    padding-left: 33px !important;
+}
+
+.navbar-default {
+    background-color: #0473aa;
+    border-color: #0473aa;
+}
+
+div#header a {
+    color: #fff;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    color: #555;
+    background-color: #0584f2;
+}
+.navbar-nav > li > a {
+    padding-bottom: 12px;
+    padding-top: 13px;
+}
+.navbar {
+    min-height: 45px;
+} 
+.menu-inside {
+    height: 45px;
+}
+.navbar-brand {
+    height: 45px;
+} 
+.dropdown-menu > li > a {
+    color: #555;
+    background-color: #0584f2;
+    padding: 10px 20px;
+}    
+.dropdown-menu {
+    min-width: 190px;
+    padding: 1px 0 2px;
+} 
+.body-content {
+    margin-top: 66px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+#footer {
+    background: #0473aa;
+    min-height: 32px;
+}
+
+.copy-right {
+    font-size: 11px;
+}
+h2 {
+    color: #fff;
+    background: #0473aa;
+    width: 100%;
+    padding: 8px;
+}
+hr {
+    margin-top: 5px;
+    margin-bottom: 16px;
+}  
+.bcolor {
+    background-color: #0473aa;
+    height:38px;
+}
+
+.popup-table .break input { 
+    height: 32px;
+}
+.popup-table .add-user-btn-group {
+    margin-bottom: 12px;
+}
+.popup-table form tbody tr:first-child td {
+    padding: 2px 0px;  
+}
+#users-list .btn-xs, .org-list .btn-xs, .task-list .btn-xs, .user-page .btn-xs{
+    background-color: #eee !important;
+    margin-top: 7px;
+}
+
+.action-button i.icon-caret-down {
+    border-left: none;
+} 
+
+.floating-options .btn {
+    padding: 0px 2px !important;
+} 
+#new-note-box .submit {
+    margin-top: 10px;
+}
+.title-right-icons span, .title-right-icons .span-a, .title-right-icons .action-button{
+    background-color: #eee !important;
+    margin-top: 7px;
+    color: #333;
+    padding: 0px 5px 0 5px;
+}
+.title-right-icons .action-button {
+   min-width: 16px;
+   text-align: center; 
+}
+.title-right-icons span a, .title-right-icons .span-a a{
+    color: #333;
+}
+.hiddenfi {
+    display: none;
+}
+.adv-search-field-container fieldset {
+    margin-left: 10px;
+}
+.adv-search-field-container .checkbox {
+    margin-bottom: 0px; 
+}
+.adv-search-cus .headline {
+    margin-left: -8px;
+}
+#advanced-search {
+    width: 98%;
+}
+.adv-search-cus .select2 {
+    width:100% !important;
+}
+#kbSearch .input-group-btn {
+    display: block;
+}
+#kbSearch .title-right-icons span{
+    margin-top: 0px;
+}
+.title-right-icons .action-button span {
+    margin-top: 0px;
+    background-color: transparent !important;
+}
+.table tr.header td, .table tr.header th, .table > thead th {
+    font-weight: 600;
+    font-size: 15px;
+}
+.bg-gray {
+    background-color: #eee;
+}
+.padtitle {
+    padding: 7px;
+}
+.temail {
+    width: 95%;
+    float: left;
+    margin-right: 5px;
+}
+.floaterr {
+    float: left;
+    margin-right: 5px;
+}
+.addtik #time {
+    height: 34px;
+}
+.ticket-cls ul.tabs, .task-cls ul.tabs {
+    border-bottom: none;
+    background: transparent;
+    box-shadow: none;
+    padding: 4px 0 0 1px;
+}
+.collaborators {
+    padding-top: 7px;
+}
+#response_options > form {
+    background: none;
+    border: none;
+}
+.titlea h2 a {
+    color: #ffffff;
+}
+.tbar .message.bar, .sticky.bar.fixed {
+    z-index: 9999; 
+    background-color: #0473aa;
+}
+.tedit #time {
+    height:32px;
+}
+.dynamic-table th, .dynamic-table td, .dynamic-table table{
+    border:none;
+}
+.dynamic-table td {
+    padding-top: 12px;
+    padding-bottom: 12px; 
+}
+.dynamic-table {
+    width: 100%
+}
+.dynamic-table input,  .dynamic-table select{
+    height: 32px;
+    font-size: 14px;
+}
+.dynamic-table table{
+    width: 100%
+}  
+.dynamic-table .icon-sort {
+    display:none; 
+}
+.dynamic-table table tr:first-child {
+    display:none;
+}
+.task-icons {
+    background: #0473aa;
+    height: 38px;
+}
+#popup select, #popup input[type=text]  {    
+    height: 32px;  
+}
+#users-list .bcolor a, .org-list .bcolor a, .faq-list .bcolor a, .user-page .bcolor a {
+
+    color: #000;
+
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #eee;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #333;
+}
+.faq-content {
+  width: 100%;
+  margin: 0px;
+}    
+
+#ui-datepicker-div {
+    z-index: 9999 !important;
+}
+#alert {
+    z-index: 9999 !important;
+}
+.message.bar.danger {
+     z-index: 9999 !important;
+}
+.message.bar.warning {
+     z-index: 9999 !important;
+}
+
+
+@media screen and (max-width: 600px) {
+    .menu-inside {
+        height: auto; 
+    }
+    .dialog.size-normal {
+        width:90% !important;
+    } 
+    .dialog.size-large {
+        width: 90% !important;
+    }
+    .popup-table td {
+        display: block; 
+        width: 200% !important;
+    }
+    .tasktable td {
+        display: block; 
+        width: 100% !important;
+    }
+    .popup-table form input {
+        width:96% !important;;
+    }
+    .popup-table form textarea {
+        width:96% !important;;
+    }
+
+    .popup-table .reset {
+        width: 25% !important;
+    }
+    .popup-table .cancel {
+        width: 27% !important;
+    }
+    .popup-table .add-user {
+        width: 60% !important;
+    }
+
+    .popup-table form .break {
+        float: left;
+        line-height: 22px;  
+    }
+    .dialog {
+        width: 90% !important;
+    }
+    .tip_box {
+        left: 100px !important;
+    }
+
+    .tip_box .tip_content {
+        min-width: 100% !important;
+    }
+
+    .tip_box .tip_content > div { 
+        width: 100% !important;
+    }
+    .leftmar10 {
+        margin-left: -10px !important;
+    }
+    .tbar .action-button {
+        margin: 0px 3px;
+    }
+
+    .tbar .title-right-icons {
+        margin-bottom: 12px;
+        margin-top: 10px;
+    }
+    .tbar .message.bar, .sticky.bar.fixed {
+        padding: 10px 0px;
+    }
+    .mobile-lrg {
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+
+    }
+    .dynamic-table td {
+        display: block;
+        margin: 9px 0px;
+    }
+    .ninty4 {
+        width: 94%;
+        float: left;
+    }
+    .tedit-duedate #duedate{
+        float: left;  
+    }
+    .tedit-duedate em {
+        float: left;
+        padding-top: 5px;
+    }
+    #task_response_options .redactor-box {
+        height: 250px;
+    }
+    .dashboard-search input {
+        float:left;
+    }
+    .dashboard-search button {
+        display: block;
+        padding-left: 5px;
+    }  
+    #account .avatar {
+        width: 60%;
+        margin-left: 22%;
+        margin-bottom: 14px;
+    }
+    .profile-form .nav > li > a {
+        padding: 8px 10px;
+    }
+    #account input[type=tel]  {
+        width: 60%;
+        float: left; 
+        margin-right: 5px;
+    }
+    #account input[name=phone_ext]  {
+        width: 30%;
+        float: right;      
+    }    
+    #account #change-pw-button {
+        margin-top: 10px; 
+    }
+    #account .action-button, .profile-form .button {
+        margin: 0px;
+    }
+
+    .tasks .action-button.muted {
+        margin-top:10px;
+    }
+    .task-list .title-right-icons .span-a {
+        margin: 3px;  
+    }
+
+    .tasktable tbody td:empty {
+        display: none;
+    }
+    .tasktable caption {
+        font-size: 1.2em !important;
+    }
+    .tasktable .dp {
+        width: 37% !important;
+        float: left; 
+    }
+    .tasktable .btn {
+        padding: 5px 2px;
+    }
+    .tasktable .btnsml {
+        padding: 5px 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 30% !important;
+    }
+    #kbSearch .title-right-icons {
+        margin-top: 5px;
+        margin-top: 11px;
+        margin-right: 10px;
+    }
+
+
+}
+
+@media screen and (min-width: 600px) {
+    .leftten {
+        margin-left: 10px;
+    }
+    .popup-table form td { 
+        padding: 10px 0px;
+    }  
+
+    .tfilter {
+        width: 75%;
+        float: left;
+        margin-right: 17px;
+    }
+    #saved-searches {
+        min-height: 238px;  
+    }
+    .ticket-internal-note {
+        height: 220px;
+    }
+}  
+
+.bcolor a {
+    color: #ffffff;
+}
+
+.tickets-menu {
+  padding: 0px;  
+}
+.tickets-menu a{
+width: 100%;
+color: #000;
+}
+.tickets-menu li{
+    list-style: none;
+}
+#sub_nav {
+  padding: 0px;  
+} 
+.tickets-menu li a{
+    padding: 3px 10px 3px 34px !important;
+    color: #fff !important;
+    background-position: 8px !important;
+}
+
+#sub_nav li + li > a {
+margin-left: 0px;
+}
+.customQ-dropdown ul {
+    padding: 0px;
+}
+.customQ-dropdown .queue-count {
+ position: absolute;
+right: 0;
+padding-top: 2px;
+padding-right: 5px;
+}
+.customQ-dropdown ul a {
+    color: #000 !important;
+}
+.dropdown-menu {
+  opacity: 1;
+}
+.customQ-dropdown .add-queue a {
+    color: #777 !important;
+padding: 4px 0px 6px 21px !important;
+padding-top: 4px !important;
+}
+
+.tickets-menu li a.only-ticket {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    font-weight: normal !important;
+    
+}
+.configureQ:hover > .noclick-dropdown {
+    display: inline;
+}
+.configureQ > .noclick-dropdown {
+    padding: 25px 0 0 0;
+margin-top: 6px;
+margin-left: -27px;
+}
+.action-dropdown, .noclick-dropdown {
+    position: absolute;
+    z-index: 8;
+    display: none;
+    margin-top: 8px;
+}
+.configureQ:hover {
+    color: rgba(0,0,0,.6);
+}
+.configureQ {
+    color: rgba(0,0,0,.2);
+    cursor: pointer;
+}
+.configureQ > .noclick-dropdown:before {
+    top: 19px;
+    left: 9px;
+}
+.configureQ > .noclick-dropdown:after {
+    top: 20px;
+    left: 10px;
+}
+.ticket-list .configureQ, .ticket-list h2{
+    display:inline;
+}
+.ticket-list h2{
+padding: 0px;
+}
+.ticket-list h2 a{
+padding-top: 6px;
+}
+.ticket-list h2 i{
+font-size: 18px;
+}
+.icon-cog {
+    font-size: 16px;
+    color: #999;
+}
+.ticketing-filter {
+   width: 60%;
+   float: left;
+   margin-right: 10px;
+}
+.ticketing-filter-adv {
+    padding-top: 6px;
+}
+#popup {
+    z-index: 999;
+}
+.adv-search-field-container {
+    padding-left: 12px;
+}
+.table-responsive {
+    padding-bottom: 14px;
+}
+.well .action-button {
+    padding: 2px 7px;
+}
+.checkbox #reply-to {
+    height: 34px;
+}
+.typeahead {
+    z-index: 9999;
+}
+.select2-container {
+   z-index: 998; 
+}
+.tic-create-dynamic > tbody > tr > td {
+    border: 1px solid #fff;
+}
+.tic-create-dynamic > tbody > tr > th {
+   border: 1px solid #fff;
+   background-color: #eee;
+}
+.pos-int {
+    position: initial;
+}
+.title-right-icons {
+    padding-right: 2px;
+}
+.titlea h2 {
+    border-radius: 6px;
+}
+.thread-entry.message .header {
+    background: #337ab7;
+    color: #fff;
+}
+.thread-entry .header {
+    border: 1px solid #337ab7;
+}
+#ticketThread .header time {
+   color: #fff; 
+}
+#ticketThread .icon-caret-down {
+    color: #fff;
+}
+.thread-entry .thread-body {
+    border: 1px solid #337ab7;
+    border-bottom: 1px solid #337ab7;
+}
+.thread-entry.avatar .header::before {
+    border-left: 8px solid #337ab7;
+}
+.thread-entry.avatar.message .header::after {
+    border-left: 7px solid #337ab7;
+}
+.response .thread-body {
+    border: 1px solid #4CAF50 !important;
+    border-bottom: 1px solid #4CAF50 !important;
+}
+
+.thread-entry.avatar.response .header::after, .thread-entry.avatar.note .header::after {
+   border-right: 7px solid #4CAF50;
+}
+.thread-entry.response .header {
+    background: #4CAF50;
+    color: #fff;
+    border: 1px solid #4CAF50 !important;
+}
+.thread-entry .label-bare {
+  color: #fff;
+border: 1px solid #fff;
+margin-top: 3px;  
+}
+.thread-entry .muted-button {
+    border: 1px solid #fff;
+}
+table.list tbody td {
+   padding-top: 10px !important;
+   padding-bottom: 10px !important;
+}
+.select2-selection {
+    height: 34px !important;
+    padding-top: 2px;
+}
+.select2-selection .select2-search__field {
+    margin-top: 1px !important; 
+}
+.select2-selection .select2-selection__arrow{
+   margin-top: 4px; 
+}  
+.dp {
+    height: 34px;
+}
+#reply-to {
+    height: 34px; 
+}
+.ticket-view .panel-body tr th:first-child, .ticket-view .panel-body tr td:first-child  {
+    width: 25%;
+}
+.ticket-task-action {
+    padding: 3px 12px;
+}
+#ticket_tabs_container {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#reply #recipients .col-sm-10{
+   padding-top: 7px; 
+}
+#threadPreview .thread-preview-entry .thread-body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#ccs .action-button {
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+#action-dropdown-collaborators {
+   z-index: 999; 
+}
+
+.addtik #user-info .button{
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+@media (min-width: 768px) {
+    #show_ccs, #ccs {
+      margin-left: 18%;  
+    }
+    #reply #reply-to {
+        width: 350px;
+    }
+    #ccs .action-button {
+       margin-left: 85px !important;
+    }
+    .scroll-up {
+      border: 1px solid #fff;
+      color: #fff !important;
+      border-top: 0px;   
+    }
+    .addtik #user-info {
+        padding-top: 7px;
+    }
+}  
+
+
+
+@media (max-width: 767px) {
+    .titlea {
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    .row.ticket-view {
+        margin-right: -5px;
+        margin-left: -5px;
+    }
+    #reply .form-group{
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .dialog.size-normal {
+        width: 345px !important;
+    } 
+    .dialog.size-large {
+        width: 345px !important;
+    }
+    .temail .select2 {
+        width: 100% !important;
+    }
+    .temail {
+    width: 99%;
+    margin-right: -3px;
+    }
+    .tickets-menu a {
+    height: 30px;
+    padding-top: 5px !important;
+    }
+    .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+      max-height: 600px;
+    }
+    .tickets-menu .Ticket{
+        color: #222 !important;
+    }
+    .select2-container--default .select2-search--inline .select2-search__field {
+      width: auto !important;
+    }
+}  
+

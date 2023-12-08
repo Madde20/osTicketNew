@@ -1,0 +1,28 @@
+#loginBox {    
+    border: 1px solid #e3e3e3;
+}
+#login {
+   width: 280px; 
+}
+#loginBox input {
+    height: 40px;
+    background-color: #fff;
+    border: 1px solid #ccc;    
+}
+
+#login button{
+    width: 280px;
+    background-color: #286090;
+    border-color: #204d74;
+    color: #fff;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 767px) {
+    #loginBox {
+        width: 90%;
+        left: 5%;
+        margin: 0 auto;
+    }
+}    
